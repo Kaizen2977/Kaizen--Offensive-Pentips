@@ -4,7 +4,7 @@
 
 * [Welcome to Kaizen Pentips](README.md)
 
-## Networking, Protocols and Network pentest
+## Website VAPT
 
-* [Basics](networking/basics.md)
+* [Recon](Website VAPT/Website-Recon.md)
 * [DNS](networking/dns.md)
