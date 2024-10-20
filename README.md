@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: https://github.com/Kaizen2977/Kaizen--Offensive-Pentips/.res/%23Kaizen Cyber Services(1).png
 coverY: 0
 layout:
   cover:
