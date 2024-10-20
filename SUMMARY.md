@@ -6,5 +6,5 @@
 
 ## Website VAPT
 
-* [Recon](Website VAPT/Website-Recon.md)
+* [Recon](Website_VAPT/Website-Recon.md)
 * [DNS](networking/dns.md)
